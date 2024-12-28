@@ -1,6 +1,6 @@
 import sys
 print("Hello world")
-sys.exit(12)
+#sys.exit(0)
 print("Hi")
 print("goog")
 
